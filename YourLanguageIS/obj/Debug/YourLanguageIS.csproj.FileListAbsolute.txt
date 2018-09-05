@@ -1,0 +1,5 @@
+c:\users\arteymas\documents\visual studio 2015\Projects\YourLanguageIS\YourLanguageIS\bin\Debug\YourLanguageIS.exe.config
+c:\users\arteymas\documents\visual studio 2015\Projects\YourLanguageIS\YourLanguageIS\bin\Debug\YourLanguageIS.exe
+c:\users\arteymas\documents\visual studio 2015\Projects\YourLanguageIS\YourLanguageIS\bin\Debug\YourLanguageIS.pdb
+c:\users\arteymas\documents\visual studio 2015\Projects\YourLanguageIS\YourLanguageIS\obj\Debug\YourLanguageIS.exe
+c:\users\arteymas\documents\visual studio 2015\Projects\YourLanguageIS\YourLanguageIS\obj\Debug\YourLanguageIS.pdb
